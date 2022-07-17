@@ -14,7 +14,7 @@ const Container = styled.div`
 const Announcement = () => {
     return (
     <Container>
-        India Institute of Technology (BHU) Varanasi.
+        Indian Institute of Technology (BHU) Varanasi.
     </Container>
     )
 };
